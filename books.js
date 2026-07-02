@@ -208,7 +208,7 @@ window.KATHERINE_DATA = {
       "tier": "",
       "description": "A new bride is haunted by the perfect dead wife she can't compete with.",
       "amazon_link": "https://www.amazon.com/s?k=Rebecca+Daphne+du+Maurier",
-      "cover_url": "https://images.penguinrandomhouse.com/cover/9780385043809"
+      "cover_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA4gI70ytYSSSPt2S6OPMmKvyxJSV2QT7OQbVfjHmy0Br6UwUf-mO4ac0&s=10"
     },
     {
       "rank": 22,
@@ -235,7 +235,7 @@ window.KATHERINE_DATA = {
       "tier": "",
       "description": "Lost-generation expats drift through Paris and Pamplona, wounded and searching.",
       "amazon_link": "https://www.amazon.com/s?k=The+Sun+Also+Rises+Ernest+Hemingway",
-      "cover_url": "https://images.penguinrandomhouse.com/cover/9780143136866"
+      "cover_url": "https://m.media-amazon.com/images/I/61-eQbeBWLL._UF1000,1000_QL80_.jpg"
     },
     {
       "rank": 25,
@@ -325,7 +325,7 @@ window.KATHERINE_DATA = {
       "tier": "",
       "description": "A poor girl is sold into the secret, glittering world of pre-war Kyoto.",
       "amazon_link": "https://www.amazon.com/s?k=Memoirs+of+a+Geisha+Arthur+Golden",
-      "cover_url": "https://images.penguinrandomhouse.com/cover/9780099552147"
+      "cover_url": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1569487934i/933.jpg"
     },
     {
       "rank": 35,
