@@ -64,7 +64,7 @@ window.KATHERINE_DATA = {
       "tier": "F",
       "description": "The sharpest, most satisfying enemies-to-lovers romance ever written.",
       "amazon_link": "https://www.amazon.com/s?k=Pride+and+Prejudice+Jane+Austen",
-      "cover_url": "https://images.penguinrandomhouse.com/cover/9781306865371"
+      "cover_url": "https://m.media-amazon.com/images/I/712P0p5cXIL._AC_UF1000,1000_QL80_.jpg"
     },
     {
       "rank": 6,
