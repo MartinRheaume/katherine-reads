@@ -82,7 +82,7 @@ window.KATHERINE_DATA = {
       "tier": "A",
       "description": "A fireman who burns books begins to wonder what they're worth saving.",
       "amazon_link": "https://www.amazon.com/s?k=Fahrenheit+451+Ray+Bradbury",
-      "cover_url": "https://images.penguinrandomhouse.com/cover/9780345342966"
+      "cover_url": "https://www.slate.com/content/dam/slideshows/arts/brow_beat/2012/06/06/ray-bradburys-fahrenheit-451-book-covers-through-time/jcr%3Acontent/slideshow/7/images%252Fslides%252F1976_1.jpg"
     },
     {
       "rank": 8,
@@ -91,7 +91,7 @@ window.KATHERINE_DATA = {
       "tier": "C",
       "description": "Farm animals overthrow their owner, then learn power corrupts all over again.",
       "amazon_link": "https://www.amazon.com/s?k=Animal+Farm+George+Orwell",
-      "cover_url": "https://images.penguinrandomhouse.com/cover/9780140126709"
+      "cover_url": "https://images.penguinrandomhouse.com/cover/9780452284241"
     },
     {
       "rank": 9,
@@ -100,7 +100,7 @@ window.KATHERINE_DATA = {
       "tier": "S",
       "description": "The Devil visits Soviet Moscow in a wild, funny, unclassifiable masterpiece.",
       "amazon_link": "https://www.amazon.com/s?k=The+Master+and+Margarita+Mikhail+Bulgakov",
-      "cover_url": "https://images.penguinrandomhouse.com/cover/9780140455465"
+      "cover_url": "https://groveatlantic.com/core/wp-content/uploads/2017/04/9780802130112.jpg"
     },
     {
       "rank": 10,
@@ -127,7 +127,7 @@ window.KATHERINE_DATA = {
       "tier": "A",
       "description": "A sprawling family saga about good, evil, and the freedom to choose.",
       "amazon_link": "https://www.amazon.com/s?k=East+of+Eden+John+Steinbeck",
-      "cover_url": "https://images.penguinrandomhouse.com/cover/9780143129486"
+      "cover_url": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1497527204i/34383185.jpg"
     },
     {
       "rank": 13,
@@ -136,7 +136,7 @@ window.KATHERINE_DATA = {
       "tier": "S",
       "description": "The original epic road trip: one man's ten-year struggle to get home.",
       "amazon_link": "https://www.amazon.com/s?k=The+Odyssey+Homer",
-      "cover_url": "https://images.penguinrandomhouse.com/cover/9781494846619"
+      "cover_url": "https://www.pauldrybooks.com/cdn/shop/products/odyssey_joe_sachs_cover.jpg?v=1413565866"
     },
     {
       "rank": 14,
@@ -172,7 +172,7 @@ window.KATHERINE_DATA = {
       "tier": "",
       "description": "An old revolutionary is jailed by the regime he helped create.",
       "amazon_link": "https://www.amazon.com/s?k=Darkness+at+Noon+Arthur+Koestler",
-      "cover_url": "https://images.penguinrandomhouse.com/cover/9780099424918"
+      "cover_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEPW_i1oJuChMZtJnGra2E23pluuEhFpSEcy1LXRn4UYCvh3-R_Ekt7vo&s=10"
     },
     {
       "rank": 18,
