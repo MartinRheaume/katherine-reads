@@ -187,7 +187,7 @@ window.KATHERINE_DATA = {
       "rank": 19,
       "title": "Lord of the Flies",
       "author": "William Golding",
-      "tier": "",
+      "tier": "D",
       "description": "Stranded schoolboys discover how thin the veneer of civilization really is.",
       "amazon_link": "https://www.amazon.com/s?k=Lord+of+the+Flies+William+Golding",
       "cover_url": "https://images.penguinrandomhouse.com/cover/9780143129400"
@@ -826,7 +826,7 @@ window.KATHERINE_DATA = {
       "rank": 90,
       "title": "Brave New World",
       "author": "Aldous Huxley",
-      "tier": "",
+      "tier": "S",
       "description": "A pleasure-engineered society where happiness has quietly replaced freedom.",
       "amazon_link": "https://www.amazon.com/s?k=Brave+New+World+Aldous+Huxley",
       "cover_url": "https://images.penguinrandomhouse.com/cover/9781784870140"
