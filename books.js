@@ -880,7 +880,7 @@ window.KATHERINE_DATA = {
       "rank": 96,
       "title": "Lolita",
       "author": "Vladimir Nabokov",
-      "tier": "",
+      "tier": "E",
       "description": "A predator's beautiful, monstrous confession, told in dazzling, damning prose.",
       "amazon_link": "https://www.amazon.com/s?k=Lolita+Vladimir+Nabokov",
       "cover_url": "https://images.penguinrandomhouse.com/cover/9780141193670"
