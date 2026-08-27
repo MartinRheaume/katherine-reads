@@ -156,6 +156,24 @@ window.KATHERINE_DATA = {
       "amazon_link": "https://www.amazon.com/s?k=Adventures+of+Huckleberry+Finn+Mark+Twain",
       "cover_url": "https://images.penguinrandomhouse.com/cover/9780141884264"
     },
+      {
+      "rank": 96,
+      "title": "Lolita",
+      "author": "Vladimir Nabokov",
+      "tier": "E",
+      "description": "A predator's beautiful, monstrous confession, told in dazzling, damning prose.",
+      "amazon_link": "https://www.amazon.com/s?k=Lolita+Vladimir+Nabokov",
+      "cover_url": "https://images.penguinrandomhouse.com/cover/9780141193670"
+    },   
+    {
+      "rank": 92,
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "author": "Douglas Adams",
+      "tier": "A",
+      "description": "Earth is demolished for a highway, and the funniest sci-fi romp begins.",
+      "amazon_link": "https://www.amazon.com/s?k=The+Hitchhiker%27s+Guide+to+the+Galaxy+Douglas+Adams",
+      "cover_url": "https://images.penguinrandomhouse.com/cover/9780385347303"
+    },
     {
       "rank": 16,
       "title": "The Fountainhead",
@@ -840,15 +858,7 @@ window.KATHERINE_DATA = {
       "amazon_link": "https://www.amazon.com/s?k=A+Passage+to+India+E+M+Forster",
       "cover_url": "https://images.penguinrandomhouse.com/cover/9780241540428"
     },
-    {
-      "rank": 92,
-      "title": "The Hitchhiker's Guide to the Galaxy",
-      "author": "Douglas Adams",
-      "tier": "A",
-      "description": "Earth is demolished for a highway, and the funniest sci-fi romp begins.",
-      "amazon_link": "https://www.amazon.com/s?k=The+Hitchhiker%27s+Guide+to+the+Galaxy+Douglas+Adams",
-      "cover_url": "https://images.penguinrandomhouse.com/cover/9780385347303"
-    },
+  
     {
       "rank": 93,
       "title": "Crime and Punishment",
@@ -876,15 +886,7 @@ window.KATHERINE_DATA = {
       "amazon_link": "https://www.amazon.com/s?k=Moby-Dick+Herman+Melville",
       "cover_url": "https://images.penguinrandomhouse.com/cover/9780141198958"
     },
-    {
-      "rank": 96,
-      "title": "Lolita",
-      "author": "Vladimir Nabokov",
-      "tier": "E",
-      "description": "A predator's beautiful, monstrous confession, told in dazzling, damning prose.",
-      "amazon_link": "https://www.amazon.com/s?k=Lolita+Vladimir+Nabokov",
-      "cover_url": "https://images.penguinrandomhouse.com/cover/9780141193670"
-    },
+
     {
       "rank": 97,
       "title": "The Catcher in the Rye",
