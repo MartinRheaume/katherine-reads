@@ -844,7 +844,7 @@ window.KATHERINE_DATA = {
       "rank": 92,
       "title": "The Hitchhiker's Guide to the Galaxy",
       "author": "Douglas Adams",
-      "tier": "",
+      "tier": "A",
       "description": "Earth is demolished for a highway, and the funniest sci-fi romp begins.",
       "amazon_link": "https://www.amazon.com/s?k=The+Hitchhiker%27s+Guide+to+the+Galaxy+Douglas+Adams",
       "cover_url": "https://images.penguinrandomhouse.com/cover/9780385347303"
