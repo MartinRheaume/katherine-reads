@@ -157,7 +157,7 @@ window.KATHERINE_DATA = {
       "cover_url": "https://images.penguinrandomhouse.com/cover/9780141884264"
     },
      {
-      "rank": 19,
+      "rank": 16,
       "title": "Lord of the Flies",
       "author": "William Golding",
       "tier": "D",
@@ -166,7 +166,7 @@ window.KATHERINE_DATA = {
       "cover_url": "https://images.penguinrandomhouse.com/cover/9780143129400"
     },
       {
-      "rank": 96,
+      "rank": 17,
       "title": "Lolita",
       "author": "Vladimir Nabokov",
       "tier": "E",
@@ -175,7 +175,7 @@ window.KATHERINE_DATA = {
       "cover_url": "https://images.penguinrandomhouse.com/cover/9780141193670"
     },   
     {
-      "rank": 92,
+      "rank": 18,
       "title": "The Hitchhiker's Guide to the Galaxy",
       "author": "Douglas Adams",
       "tier": "A",
@@ -184,7 +184,7 @@ window.KATHERINE_DATA = {
       "cover_url": "https://images.penguinrandomhouse.com/cover/9780385347303"
     },
     {
-      "rank": 16,
+      "rank": 90,
       "title": "The Fountainhead",
       "author": "Ayn Rand",
       "tier": "",
@@ -193,7 +193,7 @@ window.KATHERINE_DATA = {
       "cover_url": "https://images.penguinrandomhouse.com/cover/9780451191151"
     },
     {
-      "rank": 17,
+      "rank": 92,
       "title": "Darkness at Noon",
       "author": "Arthur Koestler",
       "tier": "",
@@ -202,7 +202,7 @@ window.KATHERINE_DATA = {
       "cover_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEPW_i1oJuChMZtJnGra2E23pluuEhFpSEcy1LXRn4UYCvh3-R_Ekt7vo&s=10"
     },
     {
-      "rank": 18,
+      "rank": 96,
       "title": "The Fellowship of the Ring",
       "author": "J. R. R. Tolkien",
       "tier": "",
@@ -842,7 +842,7 @@ window.KATHERINE_DATA = {
       "cover_url": "https://images.penguinrandomhouse.com/cover/9781784878696"
     },
     {
-      "rank": 90,
+      "rank": 19,
       "title": "Brave New World",
       "author": "Aldous Huxley",
       "tier": "S",
