@@ -156,6 +156,15 @@ window.KATHERINE_DATA = {
       "amazon_link": "https://www.amazon.com/s?k=Adventures+of+Huckleberry+Finn+Mark+Twain",
       "cover_url": "https://images.penguinrandomhouse.com/cover/9780141884264"
     },
+     {
+      "rank": 19,
+      "title": "Lord of the Flies",
+      "author": "William Golding",
+      "tier": "D",
+      "description": "Stranded schoolboys discover how thin the veneer of civilization really is.",
+      "amazon_link": "https://www.amazon.com/s?k=Lord+of+the+Flies+William+Golding",
+      "cover_url": "https://images.penguinrandomhouse.com/cover/9780143129400"
+    },
       {
       "rank": 96,
       "title": "Lolita",
@@ -201,15 +210,7 @@ window.KATHERINE_DATA = {
       "amazon_link": "https://www.amazon.com/s?k=The+Fellowship+of+the+Ring+Tolkien",
       "cover_url": "https://images.penguinrandomhouse.com/cover/9780345339706"
     },
-    {
-      "rank": 19,
-      "title": "Lord of the Flies",
-      "author": "William Golding",
-      "tier": "D",
-      "description": "Stranded schoolboys discover how thin the veneer of civilization really is.",
-      "amazon_link": "https://www.amazon.com/s?k=Lord+of+the+Flies+William+Golding",
-      "cover_url": "https://images.penguinrandomhouse.com/cover/9780143129400"
-    },
+   
     {
       "rank": 20,
       "title": "A Portrait of the Artist as a Young Man",
